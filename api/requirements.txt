@@ -112,10 +112,8 @@ mistune==2.0.5
 mypy-extensions==1.0.0
 napari==0.4.15
 napari-console==0.0.7
--e git+https://github.com/MMV-Lab/napari-PLACEHOLDER.git@8cfc559b1ad5e0a9961fce5223f4fb54acff452f#egg=napari_PLACEHOLDER
 napari-plugin-engine==0.2.0
 napari-svg==0.1.6
--e git+https://github.com/MMV-Lab/napari-synapses-counter.git@93363ad4e19560026678f721021430eb457e2e6e#egg=napari_synapses_counter
 nbclient==0.7.2
 nbconvert==7.2.10
 nbformat==5.8.0
@@ -218,7 +216,6 @@ vaex-jupyter==0.8.1
 vaex-ml==0.18.1
 vaex-server==0.8.1
 vaex-viz==0.5.4
--e git+https://github.com/MMV-Lab/vessel-express-napari.git@c1879c41d5be14540d77d2ca0e8ef859e73154ba#egg=vessel_express_napari
 vispy==0.11.0
 watchfiles==0.19.0
 wcwidth==0.2.6
